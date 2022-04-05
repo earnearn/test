@@ -1,0 +1,46 @@
+.head{
+    background-color: #A8CFD5;
+    border: 1px;
+    margin: 0px;
+    padding: 10px;
+    font-size: 30px;
+}
+
+.navhome{
+    background-color: #DDF2F9;
+    margin : 40px;
+    padding: 30px;
+    font-size: 20px;
+    
+}
+
+.grid1{
+    display: grid;
+    grid-template-columns: 3fr 3fr;
+    background-color: #C7E1FF;
+    border: 1px;
+    margin: 0px;
+    padding: 30px;  
+    font-size: 30px;  
+}
+
+.grid2{
+    display: grid;
+    grid-template-columns: 2fr 3fr;
+    background-color: #A8CFD5;
+    border: 1px;
+    margin: 0px;
+    padding: 30px;   
+    font-size: 22px;
+
+}
+
+.grid3{
+    display: grid;
+    grid-template-columns: 3fr 3fr;
+    background-color: #DDF2F9;
+    border: 1px;
+    margin: 0px;
+    padding: 30px; 
+    font-size: 22px;     
+}
